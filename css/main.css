@@ -155,8 +155,8 @@ margin-bottom: 10px;
    custom styles
    ========================================================================== */
 
-@media screen and (max-device-width: 200px) {
-html { background: url(polina.jpg) #000 no-repeat center center fixed; }
+@media screen and (max-device-width: 800px) {
+#hero { background: black; }
 video { display: none; }
 }
 
